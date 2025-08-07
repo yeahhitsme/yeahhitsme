@@ -1,6 +1,6 @@
 ## About Me
 
-I am a 3rd year Informatics Student and software developer with a passion for creating innovative solutions.
+I am a 3rd year Informatics Student with a passion for creating innovative solutions.
 
 - 🌱 Currently learning Web Dev and Cyber Security
 - 💼 Actively seeking internship opportunities
